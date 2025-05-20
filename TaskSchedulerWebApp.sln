@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskSchedulerWebApp", "TaskSchedulerWebApp\TaskSchedulerWebApp.csproj", "{21277D4A-100B-4825-ACC2-60BFB88782AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskSchedulerWebAppTests", "TaskSchedulerWebAppTests\TaskSchedulerWebAppTests.csproj", "{2799EC35-90DA-4B11-8710-A89874C376D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{21277D4A-100B-4825-ACC2-60BFB88782AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21277D4A-100B-4825-ACC2-60BFB88782AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21277D4A-100B-4825-ACC2-60BFB88782AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2799EC35-90DA-4B11-8710-A89874C376D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2799EC35-90DA-4B11-8710-A89874C376D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2799EC35-90DA-4B11-8710-A89874C376D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2799EC35-90DA-4B11-8710-A89874C376D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
